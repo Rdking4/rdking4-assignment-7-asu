@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SER316-Spring-2018-master/src"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/nekohtmlXni.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/swag.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/swexpl.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/xmlParserAPIs.jar"/>
+	<classpathentry kind="lib" path="SER316-Spring-2018-master/lib/xom-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
